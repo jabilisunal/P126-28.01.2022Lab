@@ -1,0 +1,36 @@
+Task-1
+Bir function yaziriq,2 ededin ceminin 100 olub olmadigini ve 2 ededden birinin
+100 olub olmadigini yoxlayib, geriye true cavabi qaytarsin,eks halda false.
+
+
+Task-2
+Bir funksiya yaziriq, bizden string goturur parametr kimi, string olan butun herfler 
+boyukdurse ve ya kicikdirse true yazdirsin.Eksa Halda false yazdirsin.
+
+"Sərxan" => false; "SƏRXAN" => true; "sərxan" => true;
+
+Task-3
+Bir funksiya yaziriq
+Kreditə götürdüyümüz pul və aylıq(necə ay ödəməliyəm) parametr verilir. 
+Pul bərabər hissələrə bölünərək hər ay verilməlidir.
+
+Məs:1000 manat götürülür, 3 ayliq. 
+Ekrana yazdirilmalidir: 
+1-ci ay 333manat,
+2-ci ay 333manat,
+3-cu ay 334 manat;
+
+Task-4
+Bir funksiya yazin,array qebul edir, arrayde olar sozlerin heriflerinin sayi 
+6dan cox olani qaytarsin.
+
+Task-5
+Bir funskiya yaziriq, adlardan ibaret array qebul edir,
+adlari elifba sirasinin eksine yazdiririq consola.
+
+Task-6
+Bir arrow function yaziriq bizden fayl name qebul edir,
+meselcun index.html script.js main.css kimi mene hansi tip filename oldugunu qaytarmalidir.
+.js yaxud .css  (string methodlardan istifade etmeknen,lastIndexof,Slice)
+
+
